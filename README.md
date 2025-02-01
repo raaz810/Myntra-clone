@@ -1,1 +1,1 @@
-[Myntra- clone](http://127.0.0.1:5500/index.html)
+[Myntra- clone](https://raaz810.github.io/Myntra-clone/)
